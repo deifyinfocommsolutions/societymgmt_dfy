@@ -1,2 +1,1 @@
-# societymgmt_dfy
-Society Management System Portal for iBeads
+Society Management Portal for iBeads
